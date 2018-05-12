@@ -1,0 +1,26 @@
+_repo: Sarah-s-First-Start-in-Life._35053
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35053-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Campbell, Adelaide M. G.
+    gutenberg_agent_id: '37429'
+    url: http://www.gutenberg.org/2009/agents/37429
+description: ''
+gutenberg_issued: '2011-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35053'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Great Britain -- Social life and customs -- Fiction'
+- !lcsh 'Household employees -- Fiction'
+title: Sarah's First Start in Life
+url: http://www.gutenberg.org/ebooks/35053
